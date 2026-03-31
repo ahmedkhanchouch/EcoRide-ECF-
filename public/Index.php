@@ -10,7 +10,7 @@
 
 <body>
     <?php
-    include "HTML/header.html";
+    include "Header.html";
     function sayHi()
     {
         return "Hi";
